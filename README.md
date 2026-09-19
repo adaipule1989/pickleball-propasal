@@ -27,4 +27,4 @@ The site adapts `Law_School_Pickleball_Proposal_Benefits_Highlighted.docx`.
 
 Photography is bundled locally so the page has no runtime image dependency:
 
-- Pickleball photography by [Jon Matthews](https://unsplash.com/@jkmatt), used under the Unsplash License.
+- User-provided iStock preview images credited to Drazen Zigic and Alvaro Moreno Perez. Replace with licensed high-resolution downloads before broad publication if needed.
