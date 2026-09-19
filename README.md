@@ -27,5 +27,4 @@ The site adapts `Law_School_Pickleball_Proposal_Benefits_Highlighted.docx`.
 
 Photography is bundled locally so the page has no runtime image dependency:
 
-- “Pickleball Players” by TheVillagesFL, CC BY-SA 4.0, via Wikimedia Commons.
-- “Willy Chung playing pickleball” by EasonChou0621, CC0, via Wikimedia Commons.
+- Pickleball photography by [Jon Matthews](https://unsplash.com/@jkmatt), used under the Unsplash License.
