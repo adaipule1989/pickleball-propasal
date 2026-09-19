@@ -1,6 +1,6 @@
-# Law School Pickleball Pilot Proposal
+# Propuesta de Pickleball para el Colegio de Abogadas y Abogados de Costa Rica
 
-A static, decision-focused website presenting a reversible pickleball pilot for a law school community.
+Sitio estático en español para presentar un plan piloto de pickleball sencillo, medible y reversible.
 
 ## Pages setup
 
@@ -23,10 +23,9 @@ Then open <http://localhost:8000>.
 
 ## Source material and photography
 
-The site adapts `Law_School_Pickleball_Proposal_Benefits_Highlighted.docx`. Embedded proposal diagrams are included under `assets/document-images/`.
+The site adapts `Law_School_Pickleball_Proposal_Benefits_Highlighted.docx`.
 
 Photography is bundled locally so the page has no runtime image dependency:
 
 - “Pickleball Players” by TheVillagesFL, CC BY-SA 4.0, via Wikimedia Commons.
 - “Willy Chung playing pickleball” by EasonChou0621, CC0, via Wikimedia Commons.
-Repo for pickleball proposale
